@@ -1,6 +1,6 @@
 # Developer Landing Page
 
-##### Published Url:-[Developer Home Page](https://legendary-choux-e58f1e.netlify.app/)
+##### Published Url:-[Developer Home Page](https://delightful-gaufre-82e5f5.netlify.app/)
 
 
 <img src="https://github.com/sirugudipraveen3637/DeveloperLandingpage_9/blob/main/9.png" height="60%" width="75%"/>
