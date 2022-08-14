@@ -11,6 +11,8 @@
   - Flex box
   - Font icons
   - Flex justify content propperties
+  - Media Queries
+  - Responsive web
 
   
 ### Development Efforts:- 6 hours
