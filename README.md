@@ -15,7 +15,7 @@
   - Responsive web
 
   
-### Development Efforts:- 6 hours
+### Development Efforts:- 6 hours +2.5 hours(resonsive web)
   
 ### Technologies:-
 <span>
